@@ -1,0 +1,17 @@
+1.Mobile Recharge
+2.Electricity Bill
+3.Cab Booking
+4.List of Movies and Ticket Booking
+5.Find Events
+6.Hotel Booking
+7.Bus Booking
+8.Laundry
+9.Burger Booking
+10.My Orders
+11.Improve My Experience
+12.Notifications
+13.Refer & Earn
+14.Offers & Promocodes
+15.Need Help
+
+

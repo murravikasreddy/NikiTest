@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Niki Tests">
+
+<listeners> 
+<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+ <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+</listeners>
+
+	<test name="NikiSmokeTest">
+
+		<groups>
+			<run>
+
+				<include name="smoke" />
+
+			</run>
+		</groups>
+
+		<classes>
+
+			<class name="com.techbins.niki.beta.tests.HomePageTest" />
+			<class name="com.techbins.niki.beta.tests.NavigationTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
